@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="Rails contact_list: production" uuid="270fdbd0-a834-4a54-a889-ccd1c25b4fec">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>$PROJECT_DIR$/config/database.yml</remarks>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://127.0.0.1:5432/contact_list_production</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="Rails contact_list: test" uuid="81be0dc5-2ac6-4059-b8cd-cc4a15ac1a62">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>$PROJECT_DIR$/config/database.yml</remarks>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://127.0.0.1:5432/contact_list_test</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="Rails contact_list: development" uuid="eecac138-9bb1-44e5-818d-18a03dd3795d">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>$PROJECT_DIR$/config/database.yml</remarks>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://127.0.0.1:5432/contact_list_development</jdbc-url>
+    </data-source>
+  </component>
+</project>
